@@ -10,9 +10,7 @@ expected time complexity is O(d) where d is the degree of node n.
 
 1. insertEdge(x,y): Insert an edge or connection between node x and y. For instance, insertEdge(1,3) establishes a connection between nodes 1 and 3. The expected time complexity is O(1).
 
-2. deleteEdge(x,y): Delete an edge between x and y. For instance, deleteEdge(3,4) deletes the connection
-
-3. between 3 and 4. The expected time complexity is O(1).
+2. deleteEdge(x,y): Delete an edge between x and y. For instance, deleteEdge(3,4) deletes the connection between 3 and 4. The expected time complexity is O(1).
 
 4. isNeighbor(x,y): It returns true if y is neighbor of x. The expected time complexity is O(1).
 
